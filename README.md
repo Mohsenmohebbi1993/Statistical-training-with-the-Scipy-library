@@ -51,7 +51,7 @@ Thus, **SciPy acts as the mathematical/statistical toolkit** that enables seriou
 
 ## 2. What exactly is the `scipy.stats` module?
 
-This is likely what you meant by “statis” 😊  
+This is likely what you meant by “statis”
 Its correct name is **`scipy.stats`**.
 
 ### Main functions of `scipy.stats`
