@@ -71,10 +71,16 @@ Its correct name is **`scipy.stats`**.
 In plain terms:  
 **Whenever you need to “speak the language of statistics” with your data—rather than just observing numbers—`scipy.stats` is the tool you reach for.**
 
+1. NoteBook 1: 1. Python   
+In the first notebook, we discussed Python and will do some basic work with Python.
 
 
 
 
+
+
+
+----------------------------------------------
 # Statistical training with the Scipi library
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
