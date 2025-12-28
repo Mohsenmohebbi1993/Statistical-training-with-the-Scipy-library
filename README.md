@@ -1,3 +1,80 @@
+# Statistical training with the scipy library
+## 1. What is SciPy and what is it used for?
+
+SciPy is built on top of NumPy—it leverages NumPy’s powerful numeric arrays and adds a vast collection of scientific and numerical computing tools. Whenever “numerical and scientific computing” is involved, SciPy is almost certainly part of the stack.
+
+### Key capabilities of SciPy
+
+In general, SciPy is used for tasks such as:
+
+- **Numerical integration and solving equations**  
+- **Optimization** (minimizing/maximizing functions—e.g., for model fitting)  
+- **Advanced linear algebra** (matrix operations, decompositions, etc.)  
+- **Statistics and probability** (via `scipy.stats`)  
+- **Signal processing** (filtering, FFT, etc.)  
+- **Image processing** (basic image operations)  
+- **Spatial data analysis** (distances, k-d trees, nearest neighbors, etc.)
+
+In short: SciPy provides the mathematical and statistical backbone for **data science, engineering, and classical machine learning**—anything beyond what basic NumPy offers.
+
+### Important SciPy submodules (subpackages)
+
+Some of the most widely used include:
+
+| Submodule            | Purpose |
+|----------------------|--------|
+| `scipy.linalg`       | Linear algebra (more advanced and faster than `numpy.linalg`) |
+| `scipy.optimize`     | Optimization, nonlinear regression, function minimization/maximization |
+| `scipy.integrate`    | Numerical integration and solving differential equations |
+| `scipy.fft`          | Fast Fourier Transform |
+| `scipy.signal`       | Signal processing (filtering, convolution, etc.) |
+| `scipy.spatial`      | Distance metrics, KDTree, geometric computations |
+| `scipy.interpolate`  | Interpolation (filling gaps between data points) |
+| `scipy.stats`        | Statistics and probability (core of statistical analysis in SciPy) |
+| `scipy.sparse`       | Sparse matrices for large, memory-efficient datasets |
+| `scipy.cluster`      | Basic clustering algorithms |
+| `scipy.io`           | Reading/writing special file formats (e.g., MATLAB files) |
+
+### SciPy’s role in Data Science
+
+A typical data science workflow follows this path:
+
+1. **Data collection**  
+2. **Data preprocessing & cleaning** → `pandas` / `NumPy`  
+3. **Statistical analysis, hypothesis testing, simple modeling** → **SciPy** (especially `stats` and `optimize`)  
+4. **Machine learning modeling** → `scikit-learn`, `PyTorch`, `TensorFlow`  
+5. **Model evaluation & visualization** → combination of `NumPy`, `SciPy`, `matplotlib`, etc.
+
+Thus, **SciPy acts as the mathematical/statistical toolkit** that enables serious quantitative analysis whenever you need more than just data wrangling.
+
+---
+
+## 2. What exactly is the `scipy.stats` module?
+
+This is likely what you meant by “statis” 😊  
+Its correct name is **`scipy.stats`**.
+
+### Main functions of `scipy.stats`
+
+`scipy.stats` is used for a wide range of statistical tasks:
+
+- **Descriptive statistics**: mean, variance, skewness, kurtosis, etc.  
+- **Probability distributions**: normal, Poisson, binomial, uniform, gamma, and dozens more  
+- **Random sample generation** from these distributions  
+- **Fitting distributions** to observed data  
+- **Statistical hypothesis tests**:  
+  - t-test, chi-square test, ANOVA  
+  - Mann-Whitney U, Wilcoxon signed-rank, etc.  
+- **Correlation measures**: Pearson, Spearman, Kendall, etc.  
+- **Classical regression and inferential statistics**
+
+In plain terms:  
+**Whenever you need to “speak the language of statistics” with your data—rather than just observing numbers—`scipy.stats` is the tool you reach for.**
+
+
+
+
+
 # Statistical training with the Scipi library
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
