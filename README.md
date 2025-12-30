@@ -73,6 +73,7 @@ In plain terms:
 
 1. NoteBook 1: 1. Python   
 In the first notebook, we discussed Python and will do some basic work with Python.
+power shell command
 
 
 
