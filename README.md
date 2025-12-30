@@ -73,10 +73,12 @@ In plain terms:
 
 1. NoteBook 1: 1. Python   
 In the first notebook, we discussed Python and will do some basic work with Python.
-power shell command
+power shell command  
 
+Fibonacci   
+The Fibonacci sequence is a famous numerical sequence in mathematics in which each number is equal to the sum of the two preceding numbers.  
 
-
+Profiling and %prun  
 
 
 
