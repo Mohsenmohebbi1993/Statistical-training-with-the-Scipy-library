@@ -80,7 +80,7 @@ The Fibonacci sequence is a famous numerical sequence in mathematics in which ea
 
 Profiling and %prun  
 sympy   
-
+markdown   
 
 ----------------------------------------------
 # Statistical training with the Scipi library
