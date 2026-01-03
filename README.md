@@ -79,8 +79,7 @@ Fibonacci
 The Fibonacci sequence is a famous numerical sequence in mathematics in which each number is equal to the sum of the two preceding numbers.  
 
 Profiling and %prun  
-
-
+sympy   
 
 
 ----------------------------------------------
