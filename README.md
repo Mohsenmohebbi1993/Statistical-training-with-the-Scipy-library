@@ -84,7 +84,7 @@ markdown
 from IPython.display import Image, display, HTML, Math   
 print by one Class   
 
-
+ipywidgets and intractive plot   
 ----------------------------------------------
 # Statistical training with the Scipi library
 
