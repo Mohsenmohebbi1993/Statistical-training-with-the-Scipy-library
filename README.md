@@ -81,7 +81,7 @@ The Fibonacci sequence is a famous numerical sequence in mathematics in which ea
 Profiling and %prun  
 sympy   
 markdown   
-
+from IPython.display import Image, display, HTML, Math   
 ----------------------------------------------
 # Statistical training with the Scipi library
 
