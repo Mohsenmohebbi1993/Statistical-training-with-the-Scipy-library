@@ -82,6 +82,9 @@ Profiling and %prun
 sympy   
 markdown   
 from IPython.display import Image, display, HTML, Math   
+print by one Class   
+
+
 ----------------------------------------------
 # Statistical training with the Scipi library
 
