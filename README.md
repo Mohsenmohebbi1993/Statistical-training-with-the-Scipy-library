@@ -85,6 +85,9 @@ from IPython.display import Image, display, HTML, Math
 print by one Class   
 
 ipywidgets and intractive plot   
+
+2. NoteBook 1: 2. numpy  
+
 ----------------------------------------------
 # Statistical training with the Scipi library
 
