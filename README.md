@@ -86,7 +86,22 @@ print by one Class
 
 ipywidgets and intractive plot   
 
-2. NoteBook 1: 2. numpy  
+2. NoteBook 1: 2. Numpy (Numerical Python)
+Array   
+Matrix   
+Array 2D and ND   
+Type of Data  
+Creat Array   
+Indexing And Slicing  
+Array 1D and ND  
+Shape And Reshape  
+Mathmatic  
+Elementwise  
+Aggragate  
+Boolian 
+Set  
+Work on Array   
+
 
 ----------------------------------------------
 # Statistical training with the Scipi library
