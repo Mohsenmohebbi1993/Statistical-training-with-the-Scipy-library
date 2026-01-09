@@ -88,7 +88,7 @@ ipywidgets and intractive plot
 
 2. NoteBook 1: 2. Numpy (Numerical Python)
 Vector (Array)   
-Matrix   
+Matrices   
 Array 2D and ND   
 Type of Data  
 Creat Array   
@@ -101,7 +101,7 @@ Aggragate
 Boolian 
 Set  
 Work on Array   
-Matrix  
+Work on Matrices  
 
 
 ----------------------------------------------
