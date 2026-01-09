@@ -87,7 +87,7 @@ print by one Class
 ipywidgets and intractive plot   
 
 2. NoteBook 1: 2. Numpy (Numerical Python)
-Array   
+Vector (Array)   
 Matrix   
 Array 2D and ND   
 Type of Data  
